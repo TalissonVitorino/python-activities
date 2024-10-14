@@ -1,5 +1,6 @@
 import time
 
+
 def caixa_eletronico():
     print('Bem-vindo ao Caixa Eletrônico Virtual!')
     nome = input('Por favor, informe o seu nome: ')
@@ -69,5 +70,6 @@ def caixa_eletronico():
 
         else:
             print("Opção inválida. Por favor, escolha uma opção válida.")
+
 
 caixa_eletronico()

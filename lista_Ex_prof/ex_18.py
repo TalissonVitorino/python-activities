@@ -8,5 +8,4 @@ def calcular_juros_simples():
     print(f'Rendimento dos juros: R$ {juros:.2f}')
     print(f'Valor final do investimento: R$ {valor_final:.2f}')
 
-
 calcular_juros_simples()

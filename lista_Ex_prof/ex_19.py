@@ -1,5 +1,4 @@
 def calcular_media_ponderada():
-
     nota1 = float(input('Informe a primeira nota: '))
     peso1 = float(input('Informe o peso da primeira nota: '))
 

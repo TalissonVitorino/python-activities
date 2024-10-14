@@ -17,4 +17,5 @@ def calculadora_simples():
     else:
         print('Operação inválida.')
 
+
 calculadora_simples()

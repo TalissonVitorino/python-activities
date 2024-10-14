@@ -9,4 +9,5 @@ def calcular_comissao_vendedor():
     print(f'Valor líquido a pagar: R$ {valor_liquido:.2f}')
     print(f'Comissão do vendedor: R$ {comissao:.2f}')
 
+
 calcular_comissao_vendedor()
