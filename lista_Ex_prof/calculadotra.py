@@ -36,6 +36,7 @@ while True:
         print("2. Subtração")
         print("3. Multiplicação")
         print("4. Divisão")
+
         operacao = input("Digite o número da operação: ")
         cria_linhas()
 
